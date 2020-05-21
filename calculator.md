@@ -154,4 +154,4 @@ app.post('/',function(req,res){
 
 ### 5. 계산기 완성
 * 브라우저: <br> ![캡처1](image/%EC%BA%A1%EC%B2%981.PNG)
-* 결과값 (더하기 계산 예시): <br> ![캡처2](image/캡처2.png)
+* 결과값 (더하기 계산 예시): <br> ![캡처2](image/%EC%BA%A1%EC%B2%982.PNG)
